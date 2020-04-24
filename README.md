@@ -10,7 +10,7 @@
 ## :heart: Desafios
 
 <p>
-Aplicação desktop utilizando apenas CSS e HTML, utilizando como base a metodologia BEM.
+Aplicação desktop apenas com CSS e HTML, utilizando como base a metodologia BEM.
 </p>
 
 <h5 align="center">
