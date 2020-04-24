@@ -7,7 +7,7 @@
   🚀 Projeto fictício de um banco digital. 
 </h4>
 
-## :heart: Desafios
+## :heart: Sobre
 
 <p>
 Aplicação desktop apenas com CSS e HTML, utilizando como base a metodologia BEM.
